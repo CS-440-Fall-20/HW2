@@ -27,7 +27,7 @@ The problems are in `hw2.tex` which is to be compiled using a LaTeX compiler.
 
 ## Grading
 
-Grading will be as per the criteria specified in the accompanying file, _rubric.csv_.
+Grading will be as per the criteria specified in the accompanying review file, _hw2-review.xlsx_.
 
 ## Submission
 
